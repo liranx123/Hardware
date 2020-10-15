@@ -1,6 +1,6 @@
 # HardWare projects
 
-VLSI
-FPGA(Verilog)
+1. FPGA(Verilog) projects
+2. VLSI projects
 
-# End file
+## End file
